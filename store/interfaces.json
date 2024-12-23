@@ -1,5 +1,11 @@
 {
   "pokemons-list": {
     "component": "PokemonsList"
+  },
+  "my-account-link.my-account-component-link": {
+    "component": "MyAccountComponentLink"
+  },
+  "my-account-page.my-account-component-page": {
+    "component": "MyAccountComponentPage"
   }
 }
